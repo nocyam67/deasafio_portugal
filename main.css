@@ -1,1 +1,9 @@
-text-align:center
+#titulo{
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+}
+#paragrafo{
+   font-size: 25px; 
+   font-style: unset;
+}
